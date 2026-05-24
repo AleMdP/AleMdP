@@ -12,7 +12,7 @@ A computer engineering student at Universidad de Huelva, Spain.
   - | MATLAB <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |  
   - | Assembler <img src="https://img.icons8.com/color/48/processor.png" width="40"/> |  
   
-  
+---
   
 + 🤔 Programming Languajes I'm more comfortable with:  
   + | Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> |  
