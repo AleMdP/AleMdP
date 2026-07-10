@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I'm Alejandro Macías del Pozo
-A computer engineering student at Universidad de Huelva, Spain.
+A software engineering student at Universidad de Huelva, Spain.
 
 - 💬 Programming Languages I have used:  
   - | Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> |  
