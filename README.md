@@ -5,7 +5,7 @@ A software engineering student at Universidad de Huelva, Spain.
 - 💬 Programming Languages I have used:  
   - | Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> |  
   - | C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |  
-  - | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> |
+  - | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
   - | Prolog <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="30"/> |  
   - | C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> |  
   - | Cisco Packet Tracer <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="60"/> |  
@@ -18,6 +18,7 @@ A software engineering student at Universidad de Huelva, Spain.
 + 🤔 Programming Languajes I'm more comfortable with:  
   + | Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> |  
   + | C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |  
+  - | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
   + | Prolog <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="30"/> |  
   + | SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |  
   ---
