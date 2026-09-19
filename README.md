@@ -24,7 +24,9 @@ A software engineering student at Universidad de Huelva, Spain.
   ---
 - 📫 How to reach me:  
  		- Email: maciasdelpozoalejandro@gmail.com
-    -  
+
+- Most used languages:
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
