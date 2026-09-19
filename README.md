@@ -26,7 +26,7 @@ A software engineering student at Universidad de Huelva, Spain.
  		- Email: maciasdelpozoalejandro@gmail.com
 
 - Most used languages:
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AleMdP&theme=dark&layout=compact)
+  ![Top Langs](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=AleMdP&theme=dark&layout=compact)
 
 
 <!--
