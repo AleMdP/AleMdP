@@ -1,6 +1,6 @@
 # Hello! 😊
 ## I'm Alejandro Macías del Pozo
-Computer engineering student at Universidad de Huelva, Spain.
+Computer engineering student at Universidad de Huelva, Spain.  
 Currently doing an Erasmus+ exchange at Universitetet i Stavanger, Norway.
 
 ## 💬 Programming Languages I have used:  
