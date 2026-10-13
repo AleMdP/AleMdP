@@ -24,7 +24,7 @@ A software engineering student at Universidad de Huelva, Spain.
 
 ## 📫 How to reach me:  
   Email:
- 	  maciasdelpozoalejandro@gmail.com
+ 	- maciasdelpozoalejandro@gmail.com
 
 
 
