@@ -14,15 +14,6 @@ Currently doing an Erasmus+ exchange at Universitetet i Stavanger, Norway.
   - | MATLAB <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |  
   - | Assembler <img src="https://img.icons8.com/color/48/processor.png" width="40"/> |
 
-  
-## 🤔 Programming Languages I'm more comfortable with:  
-  + | Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> |  
-  + | C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |  
-  + | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
-  + | Prolog <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="30"/> |  
-  + | SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |
-
-
 ## 📫 How to reach me:  
   Email:  
  	- maciasdelpozoalejandro@gmail.com
