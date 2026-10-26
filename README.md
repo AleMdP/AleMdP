@@ -8,8 +8,7 @@ Currently doing an Erasmus+ exchange at Universitetet i Stavanger, Norway.
   - | C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |  
   - | Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
   - | Prolog <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="30"/> |
-  - | C <![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)>
-  - | C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> |  
+  - | C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain-wordmark.svg" width="30"/> |  
   - | Cisco Packet Tracer <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="60"/> |  
   - | SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |  
   - | MATLAB <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> |  
