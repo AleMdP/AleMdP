@@ -22,7 +22,7 @@ Currently doing an Erasmus+ exchange at Universitetet i Stavanger, Norway.
 
 ## 📈 My Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AleMdP&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AleMdP&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
